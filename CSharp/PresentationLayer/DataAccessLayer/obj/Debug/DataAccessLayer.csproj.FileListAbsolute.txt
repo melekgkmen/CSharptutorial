@@ -1,0 +1,10 @@
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\~projects\CSharp\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

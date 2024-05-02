@@ -1,0 +1,7 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.FileOperations\bin\Debug\CSharpTutorial.FileOperations.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.FileOperations\bin\Debug\CSharpTutorial.FileOperations.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.FileOperations\bin\Debug\CSharpTutorial.FileOperations.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.FileOperations\obj\Debug\CSharpTutorial.FileOperations.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.FileOperations\obj\Debug\CSharpTutorial.FileOperations.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.FileOperations\obj\Debug\CSharpTutorial.FileOperations.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.FileOperations\obj\Debug\CSharpTutorial.FileOperations.pdb

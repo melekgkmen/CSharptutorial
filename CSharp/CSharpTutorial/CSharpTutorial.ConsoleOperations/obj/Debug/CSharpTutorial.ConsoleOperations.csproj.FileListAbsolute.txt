@@ -1,0 +1,7 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.ConsoleOperations\bin\Debug\CSharpTutorial.ConsoleOperations.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.ConsoleOperations\bin\Debug\CSharpTutorial.ConsoleOperations.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.ConsoleOperations\bin\Debug\CSharpTutorial.ConsoleOperations.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.ConsoleOperations\obj\Debug\CSharpTutorial.ConsoleOperations.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.ConsoleOperations\obj\Debug\CSharpTutorial.ConsoleOperations.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.ConsoleOperations\obj\Debug\CSharpTutorial.ConsoleOperations.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.ConsoleOperations\obj\Debug\CSharpTutorial.ConsoleOperations.pdb

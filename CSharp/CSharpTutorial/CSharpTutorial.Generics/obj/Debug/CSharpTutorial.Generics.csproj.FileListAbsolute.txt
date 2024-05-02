@@ -1,0 +1,7 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Generics\bin\Debug\CSharpTutorial.Generics.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Generics\bin\Debug\CSharpTutorial.Generics.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Generics\bin\Debug\CSharpTutorial.Generics.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Generics\obj\Debug\CSharpTutorial.Generics.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Generics\obj\Debug\CSharpTutorial.Generics.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Generics\obj\Debug\CSharpTutorial.Generics.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Generics\obj\Debug\CSharpTutorial.Generics.pdb

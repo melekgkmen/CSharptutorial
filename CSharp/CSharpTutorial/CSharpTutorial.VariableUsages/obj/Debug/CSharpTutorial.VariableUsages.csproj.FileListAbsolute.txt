@@ -1,0 +1,7 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.VariableUsages\bin\Debug\CSharpTutorial.VariableUsages.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.VariableUsages\bin\Debug\CSharpTutorial.VariableUsages.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.VariableUsages\bin\Debug\CSharpTutorial.VariableUsages.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.VariableUsages\obj\Debug\CSharpTutorial.VariableUsages.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.VariableUsages\obj\Debug\CSharpTutorial.VariableUsages.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.VariableUsages\obj\Debug\CSharpTutorial.VariableUsages.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.VariableUsages\obj\Debug\CSharpTutorial.VariableUsages.pdb

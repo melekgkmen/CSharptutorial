@@ -1,0 +1,9 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\bin\Debug\CSharpTutorial.Classes.Core.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\bin\Debug\CSharpTutorial.Classes.Core.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\bin\Debug\CSharpTutorial.Classes.Core.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\obj\Debug\CSharpTutorial.Classes.Core.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\obj\Debug\CSharpTutorial.Classes.Core.Properties.Resources.resources
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\obj\Debug\CSharpTutorial.Classes.Core.csproj.GenerateResource.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\obj\Debug\CSharpTutorial.Classes.Core.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\obj\Debug\CSharpTutorial.Classes.Core.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes.Core\obj\Debug\CSharpTutorial.Classes.Core.pdb

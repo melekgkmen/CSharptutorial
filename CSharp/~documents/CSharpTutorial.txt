@@ -1,0 +1,10 @@
+VariableUsages ++++++
+ConsoleOperations +++++
+Functions ++++++++
+Conditions ++++++++
+Loops ++++++
+Generics +++++++++++
+Arrays  ++++++++
+
+Classes ++++++++++++
+FileOperations

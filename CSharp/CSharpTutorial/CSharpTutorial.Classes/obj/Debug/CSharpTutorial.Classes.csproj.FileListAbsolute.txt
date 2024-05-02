@@ -1,0 +1,11 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\bin\Debug\CSharpTutorial.Classes.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\bin\Debug\CSharpTutorial.Classes.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\bin\Debug\CSharpTutorial.Classes.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\obj\Debug\CSharpTutorial.Classes.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\obj\Debug\CSharpTutorial.Classes.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\obj\Debug\CSharpTutorial.Classes.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\obj\Debug\CSharpTutorial.Classes.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\bin\Debug\CSharpTutorial.Classes.Core.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\bin\Debug\CSharpTutorial.Classes.Core.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\bin\Debug\CSharpTutorial.Classes.Core.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Classes\obj\Debug\CSharpTutorial.Classes.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Functions\bin\Debug\CSharpTutorial.Functions.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Functions\bin\Debug\CSharpTutorial.Functions.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Functions\bin\Debug\CSharpTutorial.Functions.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Functions\obj\Debug\CSharpTutorial.Functions.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Functions\obj\Debug\CSharpTutorial.Functions.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Functions\obj\Debug\CSharpTutorial.Functions.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Functions\obj\Debug\CSharpTutorial.Functions.pdb

@@ -1,0 +1,7 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Loops\bin\Debug\CSharpTutorial.Loops.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Loops\bin\Debug\CSharpTutorial.Loops.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Loops\bin\Debug\CSharpTutorial.Loops.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Loops\obj\Debug\CSharpTutorial.Loops.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Loops\obj\Debug\CSharpTutorial.Loops.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Loops\obj\Debug\CSharpTutorial.Loops.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Loops\obj\Debug\CSharpTutorial.Loops.pdb

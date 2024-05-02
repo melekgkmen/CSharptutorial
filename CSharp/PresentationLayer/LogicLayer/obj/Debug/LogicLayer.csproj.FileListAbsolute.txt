@@ -1,0 +1,12 @@
+C:\~projects\CSharp\PresentationLayer\LogicLayer\bin\Debug\LogicLayer.dll
+C:\~projects\CSharp\PresentationLayer\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\~projects\CSharp\PresentationLayer\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\~projects\CSharp\PresentationLayer\LogicLayer\bin\Debug\EntityLayer.dll
+C:\~projects\CSharp\PresentationLayer\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\~projects\CSharp\PresentationLayer\LogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\~projects\CSharp\PresentationLayer\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\~projects\CSharp\PresentationLayer\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\~projects\CSharp\PresentationLayer\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\PresentationLayer\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\~projects\CSharp\PresentationLayer\LogicLayer\obj\Debug\LogicLayer.dll
+C:\~projects\CSharp\PresentationLayer\LogicLayer\obj\Debug\LogicLayer.pdb

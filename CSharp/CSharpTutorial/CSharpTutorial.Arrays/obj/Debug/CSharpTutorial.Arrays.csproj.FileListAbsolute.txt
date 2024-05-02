@@ -1,0 +1,7 @@
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Arrays\bin\Debug\CSharpTutorial.Arrays.exe.config
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Arrays\bin\Debug\CSharpTutorial.Arrays.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Arrays\bin\Debug\CSharpTutorial.Arrays.pdb
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Arrays\obj\Debug\CSharpTutorial.Arrays.csproj.AssemblyReference.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Arrays\obj\Debug\CSharpTutorial.Arrays.csproj.CoreCompileInputs.cache
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Arrays\obj\Debug\CSharpTutorial.Arrays.exe
+C:\~projects\CSharp\CSharpTutorial\CSharpTutorial.Arrays\obj\Debug\CSharpTutorial.Arrays.pdb
